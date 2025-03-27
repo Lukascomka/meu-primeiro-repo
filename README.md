@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 # tipos-de-css
 Exercício sobre os tipos de CSS: inline, embutido e externo.
-=======
-# meu-primeiro-repo
+
+## meu-primeiro-repo
 
 ### alteração no diretório local
 
