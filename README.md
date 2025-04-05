@@ -6,3 +6,5 @@ Exercício sobre os tipos de CSS: inline, embutido e externo.
 ### alteração no diretório local
 
 ### alteração no diretório renoto
+
+### Repositorio criado para as atividades da SPTECH nas aulas de PI
