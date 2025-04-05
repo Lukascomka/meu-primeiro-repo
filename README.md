@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Atividade 01 de Flexbox
 
 ## Testando comandos de estilo:
@@ -16,3 +17,15 @@ Adicione os estilos abaixo no código-fonte e veja o que acontece com os element
 Desafio: como será que eu faço para deixar os elementos da maneira abaixo?
 
 ![atividade-desafio](https://github.com/user-attachments/assets/15721745-1954-493b-8b34-894ab6e9764c)
+=======
+# tipos-de-css
+Exercício sobre os tipos de CSS: inline, embutido e externo.
+
+## meu-primeiro-repo
+
+### alteração no diretório local
+
+### alteração no diretório renoto
+
+### Repositorio criado para as atividades da SPTECH nas aulas de PI
+>>>>>>> 9f77f124d7a1e4f79babf217c78a7847f0a27aab
